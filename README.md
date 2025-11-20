@@ -1,4 +1,4 @@
-# portal
+# portal | Tomoo Ito
 
 ## 新潟LIVEカメラ
 
