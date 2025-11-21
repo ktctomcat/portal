@@ -1,0 +1,10 @@
+title: Portal
+logo:
+favicon:
+description: 
+url: https://ktctomcat.github.io/portal
+baseurl: ""
+show_downloads: false
+google_analytics: false
+lang: ja
+theme: jekyll-theme-primer
